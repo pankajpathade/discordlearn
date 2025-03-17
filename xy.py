@@ -11,6 +11,3 @@ print(d)
 
 
 
-
-# for i , x in enumerate(lst):
-#     print(x)

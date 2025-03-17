@@ -6,4 +6,5 @@ while True:
         print(i)
         if i == 3:
             break
-    continue
+        
+    break

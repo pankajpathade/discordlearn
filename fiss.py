@@ -1,7 +1,5 @@
 import random
 
-# num=random.randint(1,11)
-
 num=int(input("enter your num: "))
 
 try:
